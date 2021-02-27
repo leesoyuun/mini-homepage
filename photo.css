@@ -1,0 +1,24 @@
+.title{
+    background-color: lightgray;
+    font-family: 'Jal_Onuel';
+    margin:20px;
+    padding:15px;
+   
+}
+.photos{
+    overflow-x:hidden; 
+    overflow-y:auto; 
+    height: 570px; 
+    width:100%; 
+    
+}
+.photo1{
+    margin-left:20px;
+    margin-right:20px;  
+}
+.talk{
+    font-family: 'MapoFlowerIsland';
+    margin-left:20px;
+    margin-top:10px;
+    font-size:18px;
+}

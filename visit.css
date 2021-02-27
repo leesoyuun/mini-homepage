@@ -1,0 +1,15 @@
+.title0{
+        background-color: lightgray;
+        font-family: 'Jal_Onuel';
+        margin-left:20px;
+        margin-top:20px;
+        padding: 15px 30px 15px 15px;
+       }
+.visit-box{
+    display:flex;
+    width:566px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
